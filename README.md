@@ -1,78 +1,56 @@
-<p align="center"><img src="src/khoj/interface/web/assets/icons/khoj-logo-sideways-500.png" width="230" alt="Khoj Logo"></p>
-
-<div align="center">
-
-[![test](https://github.com/khoj-ai/khoj/actions/workflows/test.yml/badge.svg)](https://github.com/khoj-ai/khoj/actions/workflows/test.yml)
-[![dockerize](https://github.com/khoj-ai/khoj/actions/workflows/dockerize.yml/badge.svg)](https://github.com/khoj-ai/khoj/pkgs/container/khoj)
-[![pypi](https://github.com/khoj-ai/khoj/actions/workflows/pypi.yml/badge.svg)](https://pypi.org/project/khoj-assistant/)
-![Discord](https://img.shields.io/discord/1112065956647284756?style=plastic&label=discord)
-
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="/khoj-ai/khoj/blob/master/src/khoj/interface/web/assets/icons/khoj-logo-sideways-500.png"><img src="/khoj-ai/khoj/raw/master/src/khoj/interface/web/assets/icons/khoj-logo-sideways-500.png" width="230" alt="霍伊标志" style="max-width: 100%;"></a></p>
+<div align="center" dir="auto">
+<p dir="auto"><a href="https://github.com/khoj-ai/khoj/actions/workflows/test.yml"><img src="https://github.com/khoj-ai/khoj/actions/workflows/test.yml/badge.svg" alt="测试" style="max-width: 100%;"></a>
+<a href="https://github.com/khoj-ai/khoj/pkgs/container/khoj"><img src="https://github.com/khoj-ai/khoj/actions/workflows/dockerize.yml/badge.svg" alt="码头化" style="max-width: 100%;"></a>
+<a href="https://pypi.org/project/khoj-assistant/" rel="nofollow"><img src="https://github.com/khoj-ai/khoj/actions/workflows/pypi.yml/badge.svg" alt="皮皮" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/65ae391e74b560d6102ef567651ec67faf2a85008eed163ea61c089f2ca21023/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f313131323036353935363634373238343735363f7374796c653d706c6173746963266c6162656c3d646973636f7264"><img src="https://camo.githubusercontent.com/65ae391e74b560d6102ef567651ec67faf2a85008eed163ea61c089f2ca21023/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f313131323036353935363634373238343735363f7374796c653d706c6173746963266c6162656c3d646973636f7264" alt="不和谐" data-canonical-src="https://img.shields.io/discord/1112065956647284756?style=plastic&amp;label=discord" style="max-width: 100%;"></a></p>
 </div>
-
-<div align="center">
-<b>The open-source, personal AI for your digital brain</b>
+<div align="center" dir="auto">
+<b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">适合您数字大脑的开源个人人工智能</font></font></b>
 </div>
-
-<br />
-
-<div align="center">
-
-[🤖 Read Docs](https://docs.khoj.dev)
-<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-[🏮 Khoj Cloud](https://khoj.dev)
-<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-[💬 Get Involved](https://discord.gg/BDgyabRM6e)
-<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-[📚 Read Blog](https://blog.khoj.dev)
-
+<br>
+<div align="center" dir="auto">
+<p dir="auto"><a href="https://docs.khoj.dev" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🤖 阅读文档</font></font></a>
+<span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">&nbsp;&nbsp;•&nbsp;&nbsp; </font></font></span>
+<a href="https://khoj.dev" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🏮 Khoj Cloud </font></font></a>
+<span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">&nbsp;&nbsp;•&nbsp;&nbsp; </font></font></span>
+<a href="https://discord.gg/BDgyabRM6e" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💬 参与其中</font></font></a>
+<span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">&nbsp;&nbsp;•&nbsp;&nbsp; </font></font></span>
+<a href="https://blog.khoj.dev" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📚 阅读博客</font></font></a></p>
 </div>
-
-<div align="left">
-
-***
-
-Khoj is an application that creates always-available, personal AI agents for you to extend your capabilities.
-- You can share your notes and documents to extend your digital brain.
-- Your AI agents have access to the internet, allowing you to incorporate realtime information.
-- Khoj is accessible on Desktop, Emacs, Obsidian, Web and Whatsapp.
-- You can share pdf, markdown, org-mode, notion files and github repositories.
-- You'll get fast, accurate semantic search on top of your docs.
-- Your agents can create deeply personal images and understand your speech.
-- Khoj is open-source, self-hostable. Always.
-
-***
-
+<div align="left" dir="auto">
+<hr>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Khoj 是一款应用程序，可创建始终可用的个人 AI 代理，以帮助您扩展您的能力。</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可以分享您的笔记和文档以扩展您的数字大脑。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您的人工智能代理可以访问互联网，让您能够整合实时信息。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Khoj 可通过桌面、Emacs、Obsidian、Web 和 Whatsapp 访问。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可以共享 pdf、markdown、org-mode、notion 文件和 github 存储库。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您将在文档之上获得快速、准确的语义搜索。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您的座席可以塑造深刻的个人形象并理解您的演讲。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Khoj 是开源的、可自我托管的。总是。</font></font></li>
+</ul>
+<hr>
 </div>
-
-## See it in action
-
-<img src="https://github.com/khoj-ai/khoj/blob/master/documentation/assets/img/using_khoj_for_studying.gif?raw=true" alt="Khoj Demo">
-
-Go to https://app.khoj.dev to see Khoj live.
-
-## Full feature list
-You can see the full feature list [here](https://docs.khoj.dev/category/features).
-
-## Self-Host
-
-To get started with self-hosting Khoj, [read the docs](https://docs.khoj.dev/get-started/setup).
-
-## Contributors
-Cheers to our awesome contributors! 🎉
-
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">查看实际效果</font></font></h2><a id="user-content-see-it-in-action" class="anchor" aria-label="永久链接：查看实际效果" href="#see-it-in-action"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://github.com/khoj-ai/khoj/blob/master/documentation/assets/img/using_khoj_for_studying.gif?raw=true" data-target="animated-image.originalLink"><img src="https://github.com/khoj-ai/khoj/raw/master/documentation/assets/img/using_khoj_for_studying.gif?raw=true" alt="霍伊演示" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+       
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">前往</font></font><a href="https://app.khoj.dev" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://app.khoj.dev</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">观看 Khoj 现场直播。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">完整功能列表</font></font></h2><a id="user-content-full-feature-list" class="anchor" aria-label="永久链接：完整功能列表" href="#full-feature-list"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://docs.khoj.dev/category/features" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可以在此处</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">查看完整的功能列表</font><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自托管</font></font></h2><a id="user-content-self-host" class="anchor" aria-label="永久链接：自托管" href="#self-host"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要开始使用自托管 Khoj，</font></font><a href="https://docs.khoj.dev/get-started/setup" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请阅读文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献者</font></font></h2><a id="user-content-contributors" class="anchor" aria-label="永久链接：贡献者" href="#contributors"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为我们出色的贡献者干杯！ 🎉</font></font></p>
 <a href="https://github.com/khoj-ai/khoj/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=khoj-ai/khoj" />
+  <img src="https://camo.githubusercontent.com/dc1cd313939d24f7f8c709e6fa7b8da0d7d33f26c8dc36c3b04d1ba2d620be85/68747470733a2f2f636f6e747269622e726f636b732f696d6167653f7265706f3d6b686f6a2d61692f6b686f6a" data-canonical-src="https://contrib.rocks/image?repo=khoj-ai/khoj" style="max-width: 100%;">
 </a>
-
-Made with [contrib.rocks](https://contrib.rocks).
-
-### Interested in Contributing?
-
-We are always looking for contributors to help us build new features, improve the project documentation, or fix bugs. If you're interested, please see our [Contributing Guidelines](https://docs.khoj.dev/contributing/development) and check out our [Contributors Project Board](https://github.com/orgs/khoj-ai/projects/4).
-
-## [Sponsors](https://github.com/sponsors/khoj-ai)
-Shout out to our brilliant sponsors! 🌈
-
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://contrib.rocks" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用contrib.rocks</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">制作</font><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有兴趣贡献吗？</font></font></h3><a id="user-content-interested-in-contributing" class="anchor" aria-label="永久链接：有兴趣贡献吗？" href="#interested-in-contributing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们一直在寻找贡献者来帮助我们构建新功能、改进项目文档或修复错误。如果您有兴趣，请参阅我们的</font></font><a href="https://docs.khoj.dev/contributing/development" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献指南</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">并查看我们的</font></font><a href="https://github.com/orgs/khoj-ai/projects/4"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献者项目委员会</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><a href="https://github.com/sponsors/khoj-ai"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">赞助商</font></font></a></h2><a id="user-content-sponsors" class="anchor" aria-label="永久链接：赞助商" href="#sponsors"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">向我们出色的赞助商致敬！ 🌈</font></font></p>
 <a href="http://github.com/beekeeb">
-  <img src="https://raw.githubusercontent.com/beekeeb/piantor/main/docs/beekeeb.png" width=250/>
+  <img src="https://raw.githubusercontent.com/beekeeb/piantor/main/docs/beekeeb.png" width="250/" style="max-width: 100%;">
 </a>
+</article></div>
